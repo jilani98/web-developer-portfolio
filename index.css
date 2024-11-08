@@ -1,0 +1,29 @@
+/* nav related style */
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+.nav-title{
+    color: rgb(129, 5, 32);
+    
+}
+
+nav ul{
+    display: flex;
+}
+
+nav li{
+    list-style: none;
+    margin-right: 50px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(201, 178, 178);
+}
+.btn-primary{
+    background-color: chocolate;
+  
+}
