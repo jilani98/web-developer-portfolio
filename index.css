@@ -27,3 +27,36 @@ nav a{
     background-color: chocolate;
   
 }
+
+/* header related style */
+
+.header{
+background-image: url(portfolio-resources-main/images/header_bg.png);
+background-repeat: no-repeat;
+background-position: bottom right;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-between;
+}
+
+.banner .profile-picture{
+    width: 500px;
+    align-items: center;
+}
+
+.banner-content{
+    
+}
+
+
+/* main section */
+
+
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
